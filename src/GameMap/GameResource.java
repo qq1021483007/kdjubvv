@@ -46,6 +46,7 @@ public class GameResource {
 			gameover = ImageIO.read(new File("img/gameover.bmp"));
 			blase1=ImageIO.read(new File("img/blase1.png"));
 			win = ImageIO.read(new File("img/win.bmp"));
+			//s
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
